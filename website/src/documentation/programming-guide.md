@@ -36,6 +36,7 @@ how to implement Beam concepts in your pipelines.
   <ul>
     <li data-type="language-java" class="active">Java SDK</li>
     <li data-type="language-py">Python SDK</li>
+    <li data-type="language-go">Golang SDK</li>
   </ul>
 </nav>
 
